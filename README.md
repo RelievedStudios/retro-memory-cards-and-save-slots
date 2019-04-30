@@ -10,4 +10,7 @@
 
 ### last update:
 
-2019-04-30 22:05:16 Tuesday
+2019-04-30 22:15:51 Tuesday
+
+### Changelog:
+    continued to play persona 3 FES
