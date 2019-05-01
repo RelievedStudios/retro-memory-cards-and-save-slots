@@ -5,8 +5,12 @@
 
 | Card | Contents |
 | ------ | ------ |
-| big boi | 1.Persona 3 FES |
+| Big boi | 1.Persona 3 FES |
+| Back up | copy of big boi |
 
 ### last update:
 
-2019-04-29 21:58:19 Monday
+2019-04-30 22:15:51 Tuesday
+
+### Changelog:
+    continued to play persona 3 FES
