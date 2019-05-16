@@ -10,7 +10,7 @@
 
 ### last update:
 
-2019-04-30 22:15:51 Tuesday
+2019-05-16 10:10PM Thursday
 
 ### Changelog:
-    continued to play persona 3 FES
+    continued to play persona 3 FES on stream
