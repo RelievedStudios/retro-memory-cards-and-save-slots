@@ -19,4 +19,4 @@
 2019-05-20 9:31PM Monday
 
 ### Changelog:
-    Added save slot from Pokemon Red MissingNo speed run
+    Added save slot from Pokemon Red MissingNo speed run (upload of footage: https://youtube.com/video/6VWvQAPa08s/)
